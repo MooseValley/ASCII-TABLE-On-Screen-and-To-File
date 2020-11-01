@@ -1,0 +1,1 @@
+ASCII_TABLE_On_Screen.exe >ASCII_TABLE_On_Screen__To_File.txt
